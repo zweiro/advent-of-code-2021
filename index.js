@@ -1,2 +1,2 @@
-import {getPuzz1BAnswer} from './modules/puzzle1/puzzle1_b.mjs'
-getPuzz1BAnswer('./modules/puzzle1/puzzle1_input.txt');
+import {getPuzz2BAnswer} from './modules/puzzle2/puzzle2_b.mjs'
+getPuzz2BAnswer('./modules/puzzle2/puzzle2_input.txt');
