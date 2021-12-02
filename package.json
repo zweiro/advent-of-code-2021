@@ -1,0 +1,12 @@
+{
+  "name": "advent-of-code-2021",
+  "version": "1.0.0",
+  "description": "Puzzles solutions for Advent Of Code 2021",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "author": "Robin Zweifel",
+  "license": "ISC"
+}
