@@ -1,4 +1,4 @@
-import {getArrayFromInputFile} from './input.mjs';
+import {getArrayFromInputFile} from '../input.mjs';
 
 export let getPuzz1AAnswer = (input_file_path) => {
     getArrayFromInputFile(input_file_path).then(depthMesures => {
