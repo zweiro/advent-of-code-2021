@@ -1,2 +1,2 @@
-import {getPuzz3AAnswer} from './modules/puzzle3/puzzle3_a.mjs'
-getPuzz3AAnswer('./modules/puzzle3/puzzle3_input.txt');
+import {getPuzz3BAnswer} from './modules/puzzle3/puzzle3_b.mjs'
+getPuzz3BAnswer('./modules/puzzle3/puzzle3_input.txt');

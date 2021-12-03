@@ -1,9 +1,5 @@
 import {getArrayFromInputFile} from '../input.mjs';
 
-const FORWARD_COMMAND = "forward";
-const UP_COMMAND = "up";
-const DOWN_COMMAND = "down";
-
 export let getPuzz3AAnswer = (input_file_path) => {
     getArrayFromInputFile(input_file_path).then(reports => {
         let gamma = [];
